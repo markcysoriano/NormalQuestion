@@ -1,0 +1,84 @@
+{
+    "QuizQuestions": [
+        {
+            "Question": "What is the Stop, Drop, and Roll technique used for?",
+            "Option_1": "A).Earthquake preparedness",
+            "Option_2": "B).Fire safety",
+            "Option_3": "C). First aid",
+            "Option_4": "D).Self-defense",
+            "Correct_Answer": "B).Fire safety"
+        },
+        {
+            "Question": "What is the difference between a hurricane and a typhoon?",
+            "Option_1": "A).Location of occurrence",
+            "Option_2": "B).Wind speed",
+            "Option_3": "C).Duration",
+            "Option_4": "D).Water depth",
+            "Correct_Answer": "A).Location of occurrence"
+        },
+        {
+            "Question": "How do you perform CPR?",
+            "Option_1": "A).Compress the chest 100 times per minute",
+            "Option_2": "B).Check for a pulse first",
+            "Option_3": "C).Administer mouth-to-mouth breathing",
+            "Option_4": "D).Elevate the legs",
+            "Correct_Answer": "A).Compress the chest 100 times per minute"
+        },
+        {
+            "Question": "What is the leading cause of death during a heatwave?",
+            "Option_1": "A).Heat exhaustion",
+            "Option_2": "B).Dehydration",
+            "Option_3": "C).Heat stroke",
+            "Option_4": "D). Hypothermia",
+            "Correct_Answer": "C).Heat stroke"
+        },
+        {
+            "Question": "What is the Richter scale used to measure?",
+            "Option_1": "A).Hurricane intensity",
+            "Option_2": "B).Earthquake magnitude",
+            "Option_3": "C).Tornado wind speed",
+            "Option_4": "D).Tsunami height",
+            "Correct_Answer": "B). Earthquake magnitude"
+        },
+        {
+            "Question": "What is the most common cause of natural gas explosions in homes?",
+            "Option_1": "A).Gas leaks from appliances",
+            "Option_2": "B).Lightning strikes",
+            "Option_3": "C).Overpressure in gas lines",
+            "Option_4": "D).Gas theft",
+            "Correct_Answer": "A).Gas leaks from appliances"
+        },
+        {
+            "Question": "What is the main cause of forest fires?",
+            "Option_1": "A).Lightning strikes",
+            "Option_2": "B).Arson",
+            "Option_3": "C).Human activity",
+            "Option_4": "D).Volcanic eruptions",
+            "Correct_Answer": "C).Human activity"
+        },
+        {
+            "Question": "How do you safely evacuate during a building fire?",
+            "Option_1": "A).Take the elevator",
+            "Option_2": "B).Use the nearest exit",
+            "Option_3": "C).Stay in your office until instructed otherwise",
+            "Option_4": "D).Shout for help",
+            "Correct_Answer": "B).Use the nearest exit"
+        },
+        {
+            "Question": "What is the primary cause of aviation accidents?",
+            "Option_1": "A).Pilot error",
+            "Option_2": "B).Mechanical failure",
+            "Option_3": "C).Weather conditions",
+            "Option_4": "D).Bird strikes",
+            "Correct_Answer": "A).Pilot error"
+        },
+        {
+            "Question": "How can you prevent carbon monoxide poisoning at home?",
+            "Option_1": "A).Install a CO detector",
+            "Option_2": "B).Burn charcoal indoors",
+            "Option_3": "C).Close all vents and windows ",
+            "Option_4": "D).Use gas appliances indoors",
+            "Correct_Answer": "A).Install a CO detector"
+        }
+    ]
+}
